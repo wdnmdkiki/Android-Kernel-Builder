@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "bxsj-KernelSU-Proton-release",
-      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource/tree/cmi-r-oss",
+      "repo": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource",
       "branch": "cmi-r-oss",
       "device": "cmi",
       "defconfig": "cmi_user_defconfig"
